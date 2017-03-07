@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1477888738 source:c:\users\ahdon\desktop\acm\rsa algorithm\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+
+1478316089 source:c:\users\ahdon\desktop\rsa algorithm\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+	<cstdlib>
+
+1478319076 source:c:\users\ahdon\desktop\rsa encoder\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+	<cstdlib>
+	<iomanip>
+
